@@ -1,5 +1,5 @@
-aaaaaaa
-bbbbb
+aaaaaaa --release
+bbbbb  --release
 cccccc
 dddddd
 eeeeee edit by master
